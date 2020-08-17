@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-Meu nome é Fernando Butzke, atualmente sou estudante de Bacharelado em Ciência da Computação na FURB - Universidade Regional de Blumenau, e diariamente estou a procura de desafios
-afim de aprimorar meus conhecimentos em tecnologias como .NET, Java e JavaScript.
+Meu nome é Fernando Butzke, tenho 19 anos e sou estudante de Bacharelado em Ciência da Computação na FURB - Universidade Regional de Blumenau. Diariamente estou a procura de desafios afim de aprimorar meus conhecimentos em tecnologias como .NET, Java e JavaScript.
 
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fernandobutzke)](https://www.linkedin.com/in/fernandobutzke)
 
 <!--
 **nandobutzke/nandobutzke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
