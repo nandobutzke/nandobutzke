@@ -1,4 +1,4 @@
-### Hi there 👋
+### Bem-vindo! 😄
 
 Meu nome é Fernando Butzke, tenho 19 anos e sou estudante de Bacharelado em Ciência da Computação na FURB - Universidade Regional de Blumenau. Diariamente estou a procura de desafios afim de aprimorar meus conhecimentos em tecnologias como .NET, Java e JavaScript.
 
