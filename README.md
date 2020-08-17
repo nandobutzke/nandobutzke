@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+Meu nome é Fernando Butzke, atualmente sou estudante de Bacharelado em Ciência da Computação na FURB - Universidade Regional de Blumenau, e diariamente estou a procura de desafios
+afim de aprimorar meus conhecimentos em tecnologias como .NET, Java e JavaScript.
+
+
 <!--
 **nandobutzke/nandobutzke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
