@@ -1,6 +1,6 @@
 ### Bem-vindo! 😄
 
-Meu nome é Fernando Butzke, tenho 19 anos e sou estudante de Ciência da Computação. Diariamente, estou a procura de desafios a fim de aprimorar meus conhecimentos em tecnologias como .NET, Java e desenvolvimento WEB no geral.
+Meu nome é Fernando Butzke, tenho 19 anos e sou estudante de Ciência da Computação. Diariamente, estou a procura de desafios a fim de aprimorar meus conhecimentos em tecnologias como PHP com Laravel, Java e desenvolvimento WEB no geral.
 
 Aqui encontram-se alguns repositórios de atividades de cursos que realizei, e de eventos que participei!
 
