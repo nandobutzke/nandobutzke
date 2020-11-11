@@ -1,6 +1,6 @@
 ### Bem-vindo! 😄
 
-Meu nome é Fernando Butzke, tenho 19 anos e sou estudante de Ciência da Computação. Atualmente, trabalho com PHP utilizando Laravel e frameworks front-end (Vue, Quasar e Bootstrap). Também estou estudando regularmente Java e desenvolvimento WEB no geral.
+Meu nome é Fernando Butzke, tenho 19 anos e sou estudante de Ciência da Computação. Atualmente, trabalho com PHP utilizando Laravel e frameworks front-end (Vue, Quasar e Bootstrap). Também estou estudando Java e desenvolvimento WEB no geral.
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fernandobutzke)](https://www.linkedin.com/in/fernandobutzke)
 
