@@ -4,6 +4,8 @@ Meu nome é Fernando Butzke, tenho 19 anos e sou estudante de Ciência da Comput
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fernandobutzke)](https://www.linkedin.com/in/fernandobutzke)
 
+https://icongr.am/devicon/java-plain.svg?size=128&color=currentColor
+
 <!--
 **nandobutzke/nandobutzke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
