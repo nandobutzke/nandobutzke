@@ -2,7 +2,7 @@
 
 Meu nome é Fernando Butzke, tenho 19 anos e sou estudante de Ciência da Computação e atualmente trabalho com Java e possuo experiência com PHP e Vue.js.
 
-<img src="https://icongr.am/devicon/java-plain.svg?size=128&color=currentColor"></img>
+<img src="https://icongr.am/devicon/java-plain.svg?size=128&color=ffffff"></img>
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fernandobutzke)](https://www.linkedin.com/in/fernandobutzke)
 
