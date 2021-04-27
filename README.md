@@ -1,6 +1,6 @@
-### Bem-vindo! 😄
+### Hello World! 😄
 
-Olá! Meu nome é Fernando Butzke, tenho 19 anos e sou estudante de Ciência da Computação. Atualmente trabalho com Java e possuo experiência com PHP e Vue.js.
+My name is Fernando, I'm 19 and I'm graduating in Computer Science. At the moment, I work at Philips Clinical Informatics and I'm constly studying the JS ecosystem.
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fernandobutzke)](https://www.linkedin.com/in/fernandobutzke)
 
