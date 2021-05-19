@@ -1,4 +1,4 @@
-### Hello World! 🪐
+### Hello World! (https://icongr.am/devicon/react-original.svg?size=128&color=currentColor)
 
 My name is Fernando, I'm 19 and I'm graduating in Computer Science. At the moment, I work at Philips Clinical Informatics and I'm constantly studying the JS ecosystem.
 
