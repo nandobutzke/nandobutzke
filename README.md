@@ -4,7 +4,7 @@ My name is Fernando, I'm 19 and I'm graduating in Computer Science. At the momen
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fernandobutzke)](https://www.linkedin.com/in/fernandobutzke)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nandobutzke&show_icons=true&theme=react&bg_color=0d1117)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nandobutzke&show_icons=true&theme=react&bg_color=0d1117&icon_color=58a6ff&title_color=58a6ff)
 
 <!--
 **nandobutzke/nandobutzke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
