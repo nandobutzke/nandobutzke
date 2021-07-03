@@ -1,6 +1,6 @@
 ### ![](https://icongr.am/devicon/javascript-original.svg?size=16&color=currentColor)   Hello World!   ![](https://icongr.am/devicon/typescript-plain.svg?size=16&color=currentColor)
 
-My name is Fernando, I'm 19 and I'm graduating in Computer Science. At the moment, I work at Philips Clinical Informatics and I'm constantly studying the JS ecosystem.
+My name is Fernando, I'm 20 and I'm graduating in Computer Science. At the moment, I work at Philips Clinical Informatics and I'm constantly studying the JS ecosystem.
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fernandobutzke)](https://www.linkedin.com/in/fernandobutzke) 
 
