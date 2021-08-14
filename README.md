@@ -4,6 +4,8 @@ My name is Fernando, I'm 20 and I'm graduating in Computer Science. At the momen
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fernandobutzke)](https://www.linkedin.com/in/fernandobutzke) 
 
+<a href = "mailto:nandoproject209@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nandobutzke&show_icons=true&theme=react&bg_color=0d1117&icon_color=58a6ff&title_color=58a6ff&border_color=30363d&border_radius=6) 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nandobutzke&layout=compact&theme=react&bg_color=0d1117&icon_color=58a6ff&title_color=58a6ff&border_color=30363d&border_radius=6)](https://github.com/anuraghazra/github-readme-stats)
 
