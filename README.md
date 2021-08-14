@@ -3,7 +3,6 @@
 My name is Fernando, I'm 20 and I'm graduating in Computer Science. At the moment, I work at Philips Clinical Informatics and I'm constantly studying the JS ecosystem.
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fernandobutzke)](https://www.linkedin.com/in/fernandobutzke) 
-
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-black?style=flat-square&logo=Gmail&logoColor=white&link=https://www.linkedin.com/in/fernandobutzke)](https://www.linkedin.com/in/fernandobutzke) 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nandobutzke&show_icons=true&theme=react&bg_color=0d1117&icon_color=58a6ff&title_color=58a6ff&border_color=30363d&border_radius=6) 
