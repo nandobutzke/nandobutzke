@@ -6,7 +6,7 @@ My name is Fernando, I'm 20 and I'm graduating in Computer Science. At the momen
 
 
 <a href="mailto:nandoproject209@gmail.com">
-  <img src="https://img.shields.io/badge/-Gmail-gray-6?style=flat-square&logo=Gmail&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Gmail-gray?style=flat-square&logo=Gmail&logoColor=white" />
 </a>
 
 <a href="https://github.com/nandobutzke">
