@@ -7,7 +7,7 @@ My name is Fernando, I'm 20 and I'm graduating in Computer Science. At the momen
 
 
 <a href="https://github.com/nandobutzke">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=nandobutzke&show_icons=true&theme=react&bg_color=0d1117&icon_color=58a6ff&title_color=58a6ff&border_color=30363d&border_radius=6" alt="https://github-readme-stats.vercel.app" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=nandobutzke&show_icons=true&theme=react&bg_color=0d1117&icon_color=58a6ff&title_color=58a6ff&border_color=30363d&border_radius=6" alt="https://github-readme-stats.vercel.app" />
 </a>
 
 <a href="https://github.com/nandobutzke">
