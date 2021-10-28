@@ -6,8 +6,8 @@ My name is Fernando, I'm 20 and I'm graduating in Computer Science. At the momen
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-gray?style=flat-square&logo=Gmail&logoColor=white&link=mailto:nandoproject209@gmail.com)](mailto:nandoproject209@gmail.com) 
 
 <div style="display: inline-block">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nandobutzke&show_icons=true&theme=react&bg_color=0d1117&icon_color=58a6ff&title_color=58a6ff&border_color=30363d&border_radius=6" alt="https://github-readme-stats.vercel.app" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nandobutzke&layout=compact&theme=react&bg_color=0d1117&icon_color=58a6ff&title_color=58a6ff&border_color=30363d&border_radius=6" alt="https://github.com/anuraghazra/github-readme-stats" />
+   <img  src="https://github-readme-stats.vercel.app/api?username=nandobutzke&show_icons=true&theme=react&bg_color=0d1117&icon_color=58a6ff&title_color=58a6ff&border_color=30363d&border_radius=6" alt="https://github-readme-stats.vercel.app" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nandobutzke&layout=compact&theme=react&bg_color=0d1117&icon_color=58a6ff&title_color=58a6ff&border_color=30363d&border_radius=6" alt="https://github.com/anuraghazra/github-readme-stats" />
   
 </div>
 
