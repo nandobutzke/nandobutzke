@@ -2,6 +2,9 @@
 
 My name is Fernando, I'm 21 and I'm graduating in Computer Science. At the moment, I work at Philips and I'm constantly studying front-end technologies! 😀
 
+👨‍💻 Graduating in Computer Science
+
+
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fernandobutzke)](https://www.linkedin.com/in/fernandobutzke) 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-gray?style=flat-square&logo=Gmail&logoColor=white&link=mailto:fernandobutzke1@gmail.com)](mailto:fernandobutzke1@gmail.com) 
 
