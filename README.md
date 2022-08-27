@@ -1,4 +1,4 @@
-### ![](https://icongr.am/devicon/javascript-original.svg?size=16&color=currentColor)  <center>Hello World!</center>  ![](https://icongr.am/devicon/typescript-plain.svg?size=16&color=currentColor)
+![](https://icongr.am/devicon/javascript-original.svg?size=16&color=currentColor)  <center>Hello World!</center>  ![](https://icongr.am/devicon/typescript-plain.svg?size=16&color=currentColor)
 
 My name is Fernando, I'm 21 and I'm graduating in Computer Science. At the moment, I work at Philips and I'm constantly studying Javascript technologies.
 
