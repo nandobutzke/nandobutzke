@@ -3,7 +3,7 @@
 My name is Fernando, I'm 21 and I'm graduating in Computer Science. At the moment, I work at Philips and I'm constantly studying Javascript technologies.
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fernandobutzke)](https://www.linkedin.com/in/fernandobutzke) 
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-gray?style=flat-square&logo=Gmail&logoColor=white&link=mailto:nandoproject209@gmail.com)](mailto:fernandobutzke1@gmail.com) 
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-gray?style=flat-square&logo=Gmail&logoColor=white&link=mailto:fernandobutzke1@gmail.com)](mailto:fernandobutzke1@gmail.com) 
 
 <img height="180" src="https://github-readme-stats.vercel.app/api?username=nandobutzke&show_icons=true&theme=react&bg_color=0d1117&icon_color=58a6ff&title_color=58a6ff&border_color=0d1117&border_radius=6" alt="https://github-readme-stats.vercel.app" /><img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nandobutzke&layout=compact&theme=react&bg_color=0d1117&icon_color=58a6ff&title_color=58a6ff&border_color=0d1117&border_radius=6" alt="https://github.com/anuraghazra/github-readme-stats" />
 
