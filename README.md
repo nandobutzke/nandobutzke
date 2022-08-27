@@ -1,8 +1,9 @@
 ### ![](https://icongr.am/devicon/javascript-original.svg?size=16&color=currentColor)  <center>Hello World!</center>  ![](https://icongr.am/devicon/typescript-plain.svg?size=16&color=currentColor)
 
-My name is Fernando, I'm 21 and I'm graduating in Computer Science. At the moment, I work at Philips and I'm constantly studying front-end technologies! 😀
+My name is Fernando! At the moment, I work at Philips and I'm constantly studying front-end technologies! 😀
 
 👨‍💻 Graduating in Computer Science
+📅 21y
 
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fernandobutzke)](https://www.linkedin.com/in/fernandobutzke) 
