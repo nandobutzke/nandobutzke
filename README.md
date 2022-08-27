@@ -3,7 +3,6 @@
 My name is Fernando! At the moment, I work at Philips and I'm constantly studying front-end technologies! 😀
 
 👨‍💻 Graduating in Computer Science <br />
-
 📅 21y
 
 
