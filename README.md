@@ -5,7 +5,6 @@ My name is Fernando! At the moment, I work at Philips and I'm constantly studyin
 👨‍💻 Graduating in Computer Science <br />
 📅 21y
 
-
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fernandobutzke)](https://www.linkedin.com/in/fernandobutzke) 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-gray?style=flat-square&logo=Gmail&logoColor=white&link=mailto:fernandobutzke1@gmail.com)](mailto:fernandobutzke1@gmail.com) 
 
