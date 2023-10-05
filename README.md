@@ -3,7 +3,7 @@
 My name is Fernando! At the moment, I'm studying front-end technologies! ![](https://icongr.am/devicon/react-original.svg?size=16&color=currentColor)
 
 👨‍💻 Graduating in Computer Science <br />
-📅 21y
+📅 22y
 
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fernandobutzke)](https://www.linkedin.com/in/fernandobutzke) 
