@@ -1,6 +1,6 @@
 ### ![](https://icongr.am/devicon/javascript-original.svg?size=16&color=currentColor)  <center>Hello World!</center>  ![](https://icongr.am/devicon/typescript-plain.svg?size=16&color=currentColor)
 
-My name is Fernando! At the moment, I'm studying front-end technologies! ![](https://icongr.am/devicon/react-original.svg?size=16&color=currentColor)
+My name is Fernando! I'm a Full Stack Developer! ![](https://icongr.am/devicon/react-original.svg?size=16&color=currentColor)
 
 👨‍💻 Graduating in Computer Science <br />
 📅 23y
