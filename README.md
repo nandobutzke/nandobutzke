@@ -3,7 +3,7 @@
 My name is Fernando! I'm a Full Stack Developer! ![](https://icongr.am/devicon/react-original.svg?size=16&color=currentColor) ![](https://icongr.am/devicon/nodejs-original.svg?size=16&color=currentColor)
 
 👨‍💻 Graduating in Computer Science <br />
-📅 23y
+📅 24y
 
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fernandobutzke)](https://www.linkedin.com/in/fernandobutzke) 
